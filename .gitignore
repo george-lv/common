@@ -1,0 +1,12 @@
+*.classpath
+*.project
+*.log
+*.iml
+.settings
+.metadata
+target
+logs
+hsf.configuration
+bin
+log 
+Servers
